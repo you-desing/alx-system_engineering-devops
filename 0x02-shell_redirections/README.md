@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " Write a script that prints phrase "
+Write a script that prints phrase
